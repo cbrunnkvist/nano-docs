@@ -46,7 +46,7 @@ The original Nano (RaiBlocks) paper and first beta implementation were published
 
 [^1]: S. Nakamoto, “Bitcoin: A peer-to-peer electronic cash system,” 2008. [Online]. Available: http://bitcoin.org/bitcoin.pdf
 [^2]: "Block Confirmation Times", 2021. [Online]. Available: https://nanoticker.info
-[^3]: "Nano Stress Tests - Measuring BPS, CPS, & TPS in the real world", 2020. [Online]. Available: https://forum.nano.org/t/nano-stress-tests-measuring-bps-cps-tps-in-the-real-world/436
+[^3]: "Nano Stress Tests - Measuring BPS, CPS, & TPS in the real world", 2020. [Online]. Available: (link dead as of June 2026)
 [^4]: “Bitcoin median transaction fee historical chart.” [Online]. Available: https://bitinfocharts.com/comparison/bitcoin-median-transaction-fee.html
 [^5]: “Bitcoin average confirmation time.” [Online]. Available: https://www.blockchain.com/charts/avg-confirmation-time
 [^6]: "Irreversible Transactions - How many confirmation are required", 2020. [Online]. Available: https://en.bitcoin.it/wiki/Irreversible_Transactions#How_many_confirmations_are_required
@@ -55,7 +55,7 @@ The original Nano (RaiBlocks) paper and first beta implementation were published
 [^9]: C. LeMahieu, “Raiblocks distributed ledger network”, 2014. https://content.nano.org/whitepaper/Nano_Whitepaper_en.pdf
 [^10]: S. D. Lerner, “DagCoin Draft”, 2015. Available: https://bitslog.files.wordpress.com/2015/09/dagcoin-v41.pdf
 [^11]: A. Churyumov, “Byteball: A Decentralized System for Storage and Transfer of Value”, 2016. Available: https://obyte.org/Byteball.pdf
-[^12]: S. Popov, “The tangle”, 2016. Available: https://assets.ctfassets.net/r1dr6vzfxhev/2t4uxvsIqk0EUau6g2sw0g/45eae33637ca92f85dd9f4a3a218e1ec/iota1_4_3.pdf
+[^12]: S. Popov, “The tangle”, 2016. Available: (link dead as of June 2026)
 
 ---
 

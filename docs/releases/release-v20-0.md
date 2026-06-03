@@ -39,7 +39,7 @@ More details on the new configuration setup can be found in the node [Configurat
 
 ### Networking changes
 
-Improvements to default network setup in this version requires less setup from node operators, specifically around port forwarding. Although new setups will immediately benefit, any existing systems that have already setup port forwarding may be impacted by these changes. For those systems, we recommend validating your network setup allows proper peering with a test V20.0 node prior to upgrading. If you run into issues, review the [Troubleshooting UPnP documentation](/running-a-node/troubleshooting/#troubleshooting-upnp) for assistance. Additional help can be sought in the [Node and Representative Management forum category](https://forum.nano.org/c/node-and-rep). 
+Improvements to default network setup in this version requires less setup from node operators, specifically around port forwarding. Although new setups will immediately benefit, any existing systems that have already setup port forwarding may be impacted by these changes. For those systems, we recommend validating your network setup allows proper peering with a test V20.0 node prior to upgrading. If you run into issues, review the [Troubleshooting UPnP documentation](/running-a-node/troubleshooting/#troubleshooting-upnp) for assistance. Additional help can be sought in the Node and Representative Management forum category (n.b. link dead as of June 2026). 
 
 ### Proof-of-Work management
 
@@ -65,7 +65,7 @@ Any requests to the [process RPC](https://docs.nano.org/commands/rpc-protocol/#p
 
 ### RocksDB experimental support
 
-With better disk IO usage, RocksDB is being introduced in this version with experimental support. It is not recommended for use in production, but those interested in testing out a more performant database for the ledger should checkout [how to install RocksDB](https://docs.nano.org/running-a-node/rocksdb-ledger-backend/) and try it out on development and test systems. We also have a [related discussion in our forum](https://forum.nano.org/t/rocksdb-ledger-backend-testing/111/4) for those interested.
+With better disk IO usage, RocksDB is being introduced in this version with experimental support. It is not recommended for use in production, but those interested in testing out a more performant database for the ledger should checkout [how to install RocksDB](https://docs.nano.org/running-a-node/rocksdb-ledger-backend/) and try it out on development and test systems. We also have a related discussion in our forum (n.b. link dead as of June 2026) for those interested.
 
 ### Active elections and other optimizations
 
@@ -103,7 +103,7 @@ As part of the original implementation work we were able to setup infrastructure
 ## Node Configuration Updates
 
 !!! info "Support in Nano Forum"
-	For node operators looking to upgrade to V20.0 or tune their configurations, the [Node and Representative Management category](https://forum.nano.org/c/node-and-rep) of the forum is a great resource to use.
+	For node operators looking to upgrade to V20.0 or tune their configurations, the Node and Representative Management category (n.b. link dead as of June 2026) of the forum is a great resource to use.
 
 !!! tip "Generate .toml config to see options"
 	As noted in the [Upgrade Notices](#upgrade-notices) above, this version will migrate your existing .json files over to .toml files. Only non-default values for these fields will be added to the new .toml file. If you wish to adjust other options, use the [config generation commands](/running-a-node/configuration/#configuration-file-locations) to see all available options.

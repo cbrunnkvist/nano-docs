@@ -57,7 +57,7 @@ Details of what is shared and options for receiving them can be found in the [no
 
 --8<-- "warning-telemetry-can-be-forged.md"
 
-Continued conversation around telemetry is happening through the [related forum discussion](https://forum.nano.org/t/node-telemetry-metrics/112/8).
+Continued conversation around telemetry is happening through the related forum discussion (n.b. link dead as of June 2026).
 
 ### IPC 2.0
 
@@ -72,7 +72,7 @@ Behind the scenes many improvements were made to better streamline alignment of 
 ## Node Configuration and Management Updates
 
 !!! info "Support in Nano Forum"
-	For node operators looking to upgrade their node or tune their configurations, the [Node and Representative Management category](https://forum.nano.org/c/node-and-rep) of the forum is a great resource to use.
+	For node operators looking to upgrade their node or tune their configurations, the Node and Representative Management category (n.b. link dead as of June 2026) of the forum is a great resource to use.
 
 The following options are notable node configuration updates. Additional configuration changes have been included in this release and can be found when generating the config files.
 

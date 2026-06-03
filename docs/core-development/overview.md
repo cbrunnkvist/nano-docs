@@ -29,7 +29,7 @@ The Nano Foundation manages the [`nanocurrency`](https://github.com/nanocurrency
 | [nanocurrency/nanodb-specification](https://github.com/nanocurrency/nanodb-specification) | Kaitai Struct | Specification for database tables and fields used by the `nano-node` implementation |
 | [nanocurrency/nano-docs](https://github.com/nanocurrency/nano-docs) | Markdown | MKDocs based documentation this docs.nano.org site is built from |
 
-Most of the content in the following documentation is focused around the [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) repository, as that is where most development activity occurs. But there are tons of related projects creating useful tools, libraries, services and more for the nano ecosystem (see some options in [GitHub](https://github.com/search?q=nanocurrency&type=discussions)).
+Most of the content in the following documentation is focused around the [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) repository, as that is where most development activity occurs. But there are tons of related projects creating useful tools, libraries, services and more for the nano ecosystem (see some options in [GitHub](https://github.com/search?q=nanocurrency&type=discussions) (n.b. verify link - status uncertain as of June 2026)).
 
 ## Security vulnerability reporting
 

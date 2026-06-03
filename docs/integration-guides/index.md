@@ -98,7 +98,7 @@ This community built wallet is more end-user focused with a robust GUI full of v
 
 ## Additional tools
 
-There are plenty of additional libraries and tools worth exploring to help with your integration. Head over the the [Developer Tools page on nano.org](https://nano.org/tools) for a list of commonly used options. Other resources can be explored at the community built [nanolinks.info](https://nanolinks.info/) site.
+There are plenty of additional libraries and tools worth exploring to help with your integration. Head over the the [Developer Tools page on nano.org](https://nano.org/tools) for a list of commonly used options. Other resources can be explored at the community built nanolinks.info (n.b. link dead as of June 2026) site.
 
 ---
 
